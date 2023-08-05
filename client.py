@@ -3,17 +3,12 @@
 
 #  **Client Side**
 
-# In[1]:
-
 
 # importing the necessary libraries
 
 import asyncio
 import websockets
 import aioconsole
-
-
-# In[ ]:
 
 
 async def handle_message(websocket):
