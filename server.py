@@ -3,17 +3,11 @@
 
 #  **Server Side**
 
-# In[1]:
-
-
 # import the necessary libraries
 
 import asyncio
 import websockets
 from datetime import datetime
-
-
-# In[ ]:
 
 
 # keep connected clients and their names
